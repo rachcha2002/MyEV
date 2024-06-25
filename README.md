@@ -1,4 +1,5 @@
-# MYEV
+# MYEV (On going)
+##EV vehicle maitainance record app
 
 **MYEV** is a mobile productivity application designed to help electric vehicle (EV) owners track maintenance and operational costs. As the adoption of electric vehicles increases in Sri Lanka, there is a rising need for a dedicated tool to monitor EV-specific details. Unlike existing apps that focus on combustion vehicles, MYEV provides a tailored solution for managing EV maintenance, enhancing productivity for EV owners.
 
@@ -17,23 +18,38 @@ MYEV offers six core features for efficient EV maintenance:
 
 ### Vehicle Details Interface
 
-- **Vehicle List**: View all registered vehicles.
-- **Add a Vehicle**: Enter vehicle details such as brand, model, manufacture year, and battery capacity.
-- **Vehicle Details**: Select a vehicle from the list to view and manage its specific details.
+![Vehicle List](./MyEV/Picture1.png)
+*Vehicle List: View all registered vehicles.*
+
+![Add a Vehicle](./MyEV/Picture2.png)
+*Add a Vehicle: Enter vehicle details such as brand, model, manufacture year, and battery capacity.*
+
+![Vehicle Details](./MyEV/Picture3.png)
+*Vehicle Details: Select a vehicle from the list to view and manage its specific details.*
 
 ### Charging Interface
 
-- **Record Charging Cycles**: Enter details of each charging session.
-- **Charging Cost**: Save the charging details to calculate and display costs based on the charging type.
+![Add Charging Cycle](./MyEV/Picture5.png)
+*Record Charging Cycles: Enter details of each charging session.*
+
+![Charging Cycles with cost](./MyEV/Picture4.png)
+*Charging Cycles: List of charging cycles and details of each charging session.*
 
 ### Services Interface
 
-- **View Service Records**: Access a log of all service activities.
-- **Add New Service Records**: Upload documents and details for new services.
+![Services Records](./MyEV/Picture6.png)
+*View Service Records: Access a log of all service activities.*
+
+![Add Services Record](./MyEV/Picture7.png)
+*Add Service Records: Create new service record*
 
 ### Reminders Interface
 
-- **Set Reminders**: Schedule reminders for upcoming maintenance and service needs.
+![Reminders Interface](./MyEV/Picture9.png)
+*Reminders: Scheduled reminders for upcoming maintenance and service needs.*
+
+![Set Reminder](./MyEV/Picture8.png)
+*Set Reminders: Schedule a reminder for upcoming maintenance and service needs.*
 
 ## Application Interfaces
 
