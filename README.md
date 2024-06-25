@@ -1,7 +1,3 @@
-Certainly! Here’s your description formatted as a GitHub `README.md` file:
-
----
-
 # MYEV
 
 **MYEV** is a mobile productivity application designed to help electric vehicle (EV) owners track maintenance and operational costs. As the adoption of electric vehicles increases in Sri Lanka, there is a rising need for a dedicated tool to monitor EV-specific details. Unlike existing apps that focus on combustion vehicles, MYEV provides a tailored solution for managing EV maintenance, enhancing productivity for EV owners.
