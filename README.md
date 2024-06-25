@@ -14,6 +14,17 @@ MYEV offers six core features for efficient EV maintenance:
 - **Set Service Reminders**: Schedule reminders for upcoming services and maintenance tasks.
 - **Multi-Vehicle Support**: Manage multiple EVs and track their cumulative operational costs.
 
+## Application Interfaces
+
+The user can navigate through various interfaces to manage vehicle details, charging cycles, service history, and reminders:
+
+- **Vehicle List**: View and select registered vehicles.
+- **Add a Vehicle**: Provide details such as brand, model, manufacture year, and battery capacity.
+- **Vehicle Details**: Access specific vehicle information and manage it.
+- **Charging Fragment**: Enter and save charging cycle details.
+- **Services Tab**: View and add service records, including uploading related documents.
+- **Reminders Interface**: Schedule reminders for vehicle maintenance and other needs.
+
 ## How to Use
 
 ### Vehicle Details Interface
@@ -69,16 +80,7 @@ MYEV offers six core features for efficient EV maintenance:
 *Set Reminders: Schedule a reminder for upcoming maintenance and service needs.*
 
 
-## Application Interfaces
 
-The user can navigate through various interfaces to manage vehicle details, charging cycles, service history, and reminders:
-
-- **Vehicle List**: View and select registered vehicles.
-- **Add a Vehicle**: Provide details such as brand, model, manufacture year, and battery capacity.
-- **Vehicle Details**: Access specific vehicle information and manage it.
-- **Charging Fragment**: Enter and save charging cycle details.
-- **Services Tab**: View and add service records, including uploading related documents.
-- **Reminders Interface**: Schedule reminders for vehicle maintenance and other needs.
 
 ---
 
