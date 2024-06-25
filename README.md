@@ -19,44 +19,53 @@ MYEV offers six core features for efficient EV maintenance:
 ### Vehicle Details Interface
 
 ![Vehicle List](./MyEV/Picture1.png)
+
 *Vehicle List: View all registered vehicles.*
 
 
 ![Add a Vehicle](./MyEV/Picture2.png)
+
 *Add a Vehicle: Enter vehicle details such as brand, model, manufacture year, and battery capacity.*
 
 
 ![Vehicle Details](./MyEV/Picture3.png)
+
 *Vehicle Details: Select a vehicle from the list to view and manage its specific details.*
 
 
 ### Charging Interface
 
 ![Add Charging Cycle](./MyEV/Picture5.png)
+
 *Record Charging Cycles: Enter details of each charging session.*
 
 
 ![Charging Cycles with cost](./MyEV/Picture4.png)
+
 *Charging Cycles: List of charging cycles and details of each charging session.*
 
 
 ### Services Interface
 
 ![Services Records](./MyEV/Picture6.png)
+
 *View Service Records: Access a log of all service activities.*
 
 
 ![Add Services Record](./MyEV/Picture7.png)
+
 *Add Service Records: Create new service record*
 
 
 ### Reminders Interface
 
 ![Reminders Interface](./MyEV/Picture9.png)
+
 *Reminders: Scheduled reminders for upcoming maintenance and service needs.*
 
 
 ![Set Reminder](./MyEV/Picture8.png)
+
 *Set Reminders: Schedule a reminder for upcoming maintenance and service needs.*
 
 
